@@ -7,7 +7,7 @@
 2. Navigate to the project directory:
 
    ```
-   cd /blackcoffer
+   cd /blackcoffer-master
    ```
 
 3. Run the backend server:
@@ -22,16 +22,22 @@
 2. Navigate to the dashboard directory:
 
    ```
-   cd /blackcoffer/dashboard
+   cd /dashboard
    ```
 
-3. Install the dependencies:
+   OR if not inside blackcofer-master Folder, use this command
+   
+   ```
+   cd /blackcoffer-master/dashboard
+   ```
+
+4. Install the dependencies:
 
    ```
    npm i
    ```
 
-4. Run the development server:
+5. Run the development server:
 
    ```
    npm run dev
