@@ -16,7 +16,7 @@
    python app.py
    ```
 
-## Steps to Run the Dashboard
+## Steps to Run the Frontent React Dashboard
 
 1. Open a new terminal.
 2. Navigate to the dashboard directory:
